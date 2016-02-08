@@ -1,0 +1,18 @@
+.image {
+  position: absolute;
+  text-transform: uppercase;
+  background-image: url("../img/meme.jpg");
+  height: 675px;
+  width: 1100px;
+  text-align: center;
+  font-size: 35px;
+  font-family: impact;
+  color: white;
+  -webkit-text-stroke: 4px #000; /* stroke color and weight */
+}
+
+#lower {
+  margin: auto;
+  position: absolute;
+  top: 550px; left: 0; bottom: 0; right: 0;
+}
